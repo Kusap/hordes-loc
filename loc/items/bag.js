@@ -37,7 +37,7 @@ export default [
     name       : {$$: 'Purpur Duffel' },
     description: {
       en: 'This robust sack is made from monster hides and permits a respectable inventory.',
-      ru: 'Этот прочный мешок сделан из шкур монстров и предлагает респектабельный инвентарь.',
+      ru: 'Этот прочный мешок сделан из шкур монстров и предлагает достойный инвентарь.',
       hu: 'Ez a robosztus hátizsákot szörnyetegek bőréből készítették, és bőséges tárolóhelyet nyújt.',
       tr: 'Canavar kalıntılarından yapılmış bu sağlam çanta gayet büyük bir envanter sağlıyor.',
       de: 'Dieser robuste Sack ist aus Monsterhaut gefertigt und erlaubt ein ansehnliches Inventar.',
