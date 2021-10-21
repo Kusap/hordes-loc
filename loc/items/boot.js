@@ -84,7 +84,7 @@ export default [
     description: {
       en: 'Enchanted shoes such as this push the wearer\'s feet with shadow magic to augment speed.',
       hu: 'Az ehhez hasonlatos bűvös lábbelik az árnyékmágiával irányítják viselőjük lábát, nagy sebességet biztosítva.',
-      ru: 'Волшебный ботинки, как эти, толкают ноги владельца с помощью теневой магии, чтобы увеличить скорость.',
+      ru: 'Волшебные ботинки, как эти, толкают ноги владельца с помощью теневой магии, чтобы увеличить скорость.',
       de: 'Verzauberte Schuhe wie diese treiben die Füße des Trägers mit Schattenmagie an, um die Geschwindigkeit zu erhöhen.',
       fr: 'Des chaussures enchantées comme celle-ci poussent les pieds du porteur avec une magie de l\'ombre pour augmenter sa vitesse.',
       es: 'Zapatos encantados como estos empujan a los pies del usuario con magia de las sombras para aumentar la velocidad.',
@@ -116,7 +116,7 @@ export default [
     description: {
       en: 'Footwear such as this is etched with runes that increase the wearer\'s speed. However, scholars are hesitant about the use of these runes since their true purpose and nature is unclear.',
       hu: 'Az ilyen bocskorokat rúnákkal erősítették meg, amik megnövelik a viselő mozgékonyságát. Ám a mágus társaságok óvakodnak ezektől, mondván, a rúnák mibenléte és működése ismeretlen számukra.',
-      ru: 'Обувь, подобная этой, выгравирована рунами, которые увеличивают скорость владелеца. Однако ученые неуверенные по поводу использования этих рун, поскольку их истинное назначение и природа неясны.',
+      ru: 'Обувь, подобная этой, выгравирована рунами, которые увеличивают скорость владелеца. Однако ученые не уверены по поводу использования этих рун, поскольку их истинное назначение и природа неясны.',
       de: 'Schuhe wie dieses sind mit Runen verziert, welche die Geschwindigkeit des Trägers erhöhen. Gelehrte zögern jedoch bei der Verwendung dieser Runen, da ihr wahrer Zweck und ihre Natur unklar ist.',
       fr: 'Des chaussures comme celle-ci sont gravées de runes qui augmentent la vitesse du porteur. Cependant, les chercheurs hésitent à utiliser ces runes car leur véritable but et leur nature ne sont pas clairs.',
       es: 'Este tipo de calzado ha sido grabado con runas que aumentan la velocidad del portador. De todas formas, los estudiosos estan indecisos sobre el uso de estas runas ya que su cometido real, al igual que su naturaleza, nos es desconocido.',
