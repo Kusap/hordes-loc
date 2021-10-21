@@ -4,7 +4,7 @@ export default [
     description: {
       en: 'Burned ingredients have been twisted and tied together to form an amulet of meager protection. Creating simple amulets like this has been a common survival tactic since ancient times.',
       el: 'Καμμένα συστατικά έχουν δεθεί μαζί για να δημιουργήσουν ένα φυλακτό μικρής προστασίας. Η δημιουργία απλών φυλακτών όπως αυτό έχει υπάρξει μια συνηθισμένη τακτική από τους αρχαίους χρόνους.',
-      ru: 'Материалы собраны в лесу были сожженны и скрученные чтобы создать амулет слабой защиты. Такое искусство было популярной тактикой выживания в древние времена.',
+      ru: 'Сожжённые материалы были скручены и связаны вместе, чтобы создать амулет с мизерной защитой. Создание таких примитивных амулетов было обычной практикой для выживания в древние времена.',
       hi: 'जले पदार्थों को तोड़ मरोड़ कर इस्स ताबीज़ को बनाया है। ऐसे ताबीज़ बनाना प्राचीन समय से ज़िंदा रहने की आम युक्ति रही है।',
       de: 'Verbrannte Zutaten wurden verdreht und zu einem Amulett des mageren Schutzes zusammengebunden. Die Herstellung einfacher Amulette wie dieses ist seit der Antike eine gängige Überlebenstaktik.',
       fr: 'Les ingrédients brûlés ont été tordus et liés ensemble pour former une amulette de maigre protection. La création d\'amulettes simples comme celle-ci a été une tactique de survie courante depuis l\'antiquité.',
@@ -94,7 +94,7 @@ export default [
     name       : {$$: 'Eagle\'s Talon'},
     description: {
       en: 'When a talon was found, it was considered a gift from the sacred birds in the mountains. The monks in the mountains used the talons to produce spiritual amulets to protect themselves from invaders during battle.',
-      ru: 'Когда был найден этот коготь, его считали даром священных орлов живущих в горах. Монахи живущие на склонах гор использовали такие когти для создания духовных амулетов, чтобы защититься от захватчиков во время битвы.',
+      ru: 'Когда был найден этот коготь, его считали даром священных орлов, живущих в горах. Монахи, живущие на склонах гор, использовали такие когти для создания духовных амулетов, чтобы защититься от захватчиков во время битвы.',
       hi: 'जब भी गरुड़ का नाख़ून मिलता था, उसे पहाड़ों के पावन पंचियो का टौफ़ा माना जाता था। पहाड़ों पर रहने वाले भिक्षुकों ने अपनी सुरक्षा के लिए इन नाखूनों से आत्मिक ताबीज़ बनाए थे।',
       de: 'Als eine Kralle gefunden wurde, galt sie als Geschenk der heiligen Vögel in den Bergen. Die Mönche in den Bergen benutzten die Krallen, um spirituelle Amulette herzustellen, um sich im Kampf vor Eindringlingen zu schützen.',
       fr: 'Lorsqu\'une griffe a été trouvée, elle était considérée comme un cadeau des oiseaux sacrés dans les montagnes. Les moines dans les montagnes utilisaient les serres pour produire des amulettes spirituelles afin de se protéger des envahisseurs pendant les combats.',
@@ -138,7 +138,7 @@ export default [
     name       : {$$: 'Mystic Shard'},
     description: {
       en: 'Strange shards mined from the mountains were enhanced by mystics and formed into amulets in order to provide protection and cause fear.',
-      ru: 'Странные осколки неизвестного материала добытые в горах были заколдованы мистиками и превращены в амулеты, чтобы обеспечить защиту и внушать врагам страх.',
+      ru: 'Странные осколки неизвестного материала, добытые в горах, были заколдованы мистиками и превращены в амулеты, чтобы обеспечить защиту и внушать врагам страх.',
       hi: 'पहाडो से खने अजीब टुकड़ों को सूफीयों ने प्रवृत्त करकर अपनी सुरक्षा के लिए उनके ताबीज़ बना लिए।',
       de: 'Seltsame Scherben, die aus den Bergen abgebaut wurden, wurden von Mystikern verstärkt und zu Amuletten geformt, um Schutz zu bieten und Angst zu erzeugen.',
       fr: 'D\'étranges tessons extraits des montagnes ont été mis en valeur par des mystiques et formés en amulettes afin de fournir une protection et de provoquer la peur.',
@@ -202,7 +202,7 @@ export default [
     name       : {$$: 'Tempest Carcanet'},
     description: {
       en: 'Metal strands weave in and out of each other, producing electric arcs and giving the appearance of a living amulet. Scholars speculate that these amulets came from a realm that disappeared, but no one seems sure.',
-      ru: 'Металлические пряди вплетаются друг в друга, создавая электрическую дугу создавая видимость живого амулета. ученые предполагают что эти амулеты пришли из одного из неизвестных миров, которые им еще предстоит раскрыть.',
+      ru: 'Металлические пряди вплетаются друг в друга, образуя электрическую дугу и создавая видимость живого амулета. Ученые предполагают, что эти амулеты пришли из одного из неизвестных миров, которые им еще предстоит раскрыть.',
       de: 'Metallstränge verweben sich ineinander und auseinander, erzeugen Lichtbögen und wirken wie ein lebendiges Amulett. Wissenschaftler spekulieren, dass diese Amulette aus einem verschwundenen Reich stammt, aber niemand scheint sich sicher zu sein.',
       fr: 'Les torons métalliques s\'entrelacent et s\'entremêlent, produisant des arcs électriques et donnant l\'apparence d\'une amulette vivante. Les érudits spéculent que ces amulettes proviennent d\'un royaume qui a disparu, mais personne ne semble sûr.',
       es: 'Los hilos metálicos se entrelazan entre sí, produciendo arcos eléctricos y dando la apariencia de un amuleto vivo. Los estudiosos especulan que estos amuletos provienen de un reino que desapareció, pero nadie parece estar seguro.',
@@ -223,7 +223,7 @@ export default [
     name       : {$$: 'Ankh'},
     description: {
       en: 'Ancient kings had powerful ankh symbols made to protect them in the afterlife. Grave robbers have stolen many of these amulets and sold them to both people and monsters. Each ankh has an eerie glow that belies its true power.',
-      ru: 'Древние цари имели мощные аньхские символы, созданные для того чтобы защитить их в загробной жизни. Грабители могил украли многие из этих амулетов и продали их как людям, так и монстрам. У каждого анка есть жуткое сияние, которое отражает его истинную силу.',
+      ru: 'Древние цари имели мощные анкхские символы, созданные для того, чтобы защитить их в загробной жизни. Расхитители гробниц украли многие из этих амулетов и продали их как людям, так и монстрам. У каждого анка есть жуткое сияние, которое отражает его истинную силу.',
       de: 'Alte Könige hatten mächtige Ankh-Symbole, um sie im Jenseits zu schützen. Grabräuber haben viele dieser Amulette gestohlen und an Menschen und Monster verkauft. Jedes Ankh hat ein unheimliches Glühen, das seine wahre Kraft widerlegt.',
       fr: 'Les anciens rois avaient de puissants symboles ankh faits pour les protéger dans l\'au-delà. Les pilleurs de tombes ont volé beaucoup de ces amulettes et les ont vendues à la fois aux gens et aux monstres. Chaque ankh a une lueur étrange qui dément sa vraie puissance.',
       es: 'Los reyes antiguos poseían poderosos símbolos ankh hechos para protegerlos en la otra vida. Los ladrones de tumbas han robado muchos de estos amuletos y los han vendido tanto a personas como a monstruos. Cada ankh tiene un brillo espeluznante que revela su verdadero poder.',
@@ -245,7 +245,7 @@ export default [
     // Do NOT translate "World Tree" or "Yggdrasil".
     description: {
       en: 'Twisted pieces of the enormous World Tree, Yggdrasil, were made into amulets of the most sacred kind. Sap seeps out of the amulet and is absorbed by the body for extra protection.',
-      ru: 'Скрученные части огромного World Tree, Yggdrasil, были сделаны в амулеты самого священного вида. Сок просачивается из амулета и поглощается телом для дополнительной защиты.',
+      ru: 'Скрученные части огромного World Tree, Yggdrasil, были превращены в амулеты самого священного вида. Сок просачивается из амулета и поглощается телом для дополнительной защиты.',
       de: 'Verdrehte Stücke des riesigen World Tree, Yggdrasil wurden zu Amuletten der heiligsten Art verarbeitet. Saft sickert aus dem Amulett und wird vom Körper aufgenommen, um zusätzlichen Schutz zu bieten',
       fr: 'Des morceaux tordus de l\'énorme World Tree, Yggdrasil, ont été transformés en amulettes du genre le plus sacré. La sève s\'écoule de l\'amulette et est absorbée par le corps pour une protection supplémentaire.',
       es: 'Piezas retorcidas del enorme World Tree(árbol del mundo), Yggdrasil, que fueron convertidas en amuletos del tipo más sagrado. La savia se filtra fuera del amuleto y es absorbida por el cuerpo para mayor protección.',
@@ -267,7 +267,7 @@ export default [
     description: {
       en: 'This amulet contains elder dragon magic that was bestowed upon young dragons; these amulets gave young dragons a better chance of survival into adolescence. Once the young dragons became old and large enough to survive on their own, the chain broke and the amulet was lost.',
       de: 'Dieses Amulett enthält ältere Drachenmagie, die jungen Drachen verliehen wurde; diese Amulette gaben jungen Drachen eine bessere Überlebenschance bis in die Pubertät. Als die jungen Drachen alt und groß genug wurden, um alleine zu überleben, brach die Kette und das Amulett war verloren.',
-      ru: 'Древние драконы использовали свою магию чтобы сделать амулеты которые защищали их молодое поколение. Однажды, когда один молодой дракон вырос и стал большой для выживания, цепь амулета разорвалась и он был утерян. Именно такой амулет вы и держите в руках.',
+      ru: 'Древние драконы использовали свою магию чтобы создать амулеты, которые защищали их молодое поколение. Когда молодые драконы выростают и становятся способными выживать самостоятельно, цепь амулета разрывается и он теряется. Один из таких амулетов вы и держите в руках.',
       fr: 'Cette amulette contient la magie du dragon aîné qui a été accordée aux jeunes dragons ; ces amulettes ont donné aux jeunes dragons une meilleure chance de survie à l\'adolescence. Une fois que les jeunes dragons sont devenus vieux et assez grands pour survivre seuls, la chaîne s\'est brisée et l\'amulette a été perdue.',
       es: 'Este amuleto contiene la magia del dragón anciano que posteriormente le fue otorgada a los dragones más jóvenes; estos amuletos proporcionaron a los dragones más jovenes con más y mejores oportunidades de sobrevivir hasta la adolescencia. Una vez que los jóvenes dragones se hicieron viejos y lo suficientemente grandes para sobrevivir por sí mismos, la cadena se rompió y el amuleto se perdió.',
       pt: 'Este amuleto contém magia de dragões anciãos, que foi outorgado aos jovens dragões; esses amuletos deram aos jovens dragões uma chance maior de sobrevivência na adolescência. Uma vez que os jovens dragões se tornam velhos e suficientemente grandes sobreviver por si próprios, a corrente rompe-se e o amuleto é perdido.',
@@ -309,7 +309,7 @@ export default [
     description: {
       en: 'The center of this amulet of phoenix feathers contains a small amount of ashes from all of the fallen adventurers that have ever owned it. Without exception, every adventurer to use such an amulet has transcended into legend.',
       de: 'Das Zentrum dieses Amuletts aus Phönixfedern enthält eine kleine Menge Asche von allen gefallenen Abenteurern, die es je besessen haben. Ausnahmslos jeder Abenteurer, der ein solches Amulett benutzt, ist zur Legende geworden.',
-      ru: 'Этот амулет сделан из перьев феникса и содержит небольшое количество пепла от всех падших путешествиников которые когда-либо владели им. Без исключения, каждый путешествиник, использующий такой амулет, превратился в легенду.',
+      ru: 'Этот амулет сделан из перьев феникса и содержит небольшое количество пепла от всех падших путешествиников, которые когда-либо владели им. Без исключения, каждый путешествиник, использовавший такой амулет, превратился в легенду.',
       fr: 'Le centre de cette amulette de plumes de phénix contient une petite quantité de cendres de tous les aventuriers tombés au champ d\'honneur qui l\'ont jamais possédée. Tous les aventuriers, sans exception, à utiliser une telle amulette ont transcendé en légende.',
       es: 'El centro de este amuleto de plumas de fénix contiene una pequeña cantidad de cenizas de todos los aventureros caídos que jamás lo hayan poseído. Sin excepción, todos y cada uno de los aventureros que utilizan un amuleto de este tipo han trascendido a las leyendas.',
       pt: 'O centro deste amuleto de penas de fênix contém uma pequena quantidade de cinzas de todos os aventureiros caídos que já o possuíram. Sem exceção, todos os aventureiros que usaram este amuleto transcenderam para lendas.',
