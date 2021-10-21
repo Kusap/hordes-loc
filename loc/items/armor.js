@@ -36,7 +36,7 @@ export default [
     description: {
       en: 'This tunic is crafted from robust fabrics that are designed to withstand wilderness survival. Some traditions involve giving tunics as gifts to adventurers that are deemed worthy by an organization.',
       hu: 'Ez a tunika vastag szálakból van elkészítve, hogy segítséget nyújtson a vadonban is a túléléshez. Egyesek az ilyen tunikát a klánja által reá méltónak tartott harcosoknak ajándékképp adják.',
-      ru: 'Эта туника изготовлена из прочных тканей, которые разработаны, чтобы противостоять выживанию в дикой природе. Некоторые традиции включают в себя вручение туник в качестве подарка искателям приключений, которые организация считает достойными.',
+      ru: 'Эта туника изготовлена из прочных тканей, которые разработаны, чтобы выживать в дикой природе. Некоторые традиции включают в себя вручение туник в качестве подарка искателям приключений, которых организация считает достойными.',
       fr: 'Cette tunique est fabriqué avec des matériaux robustes conçus pour améliorer la survie en milieu sauvage. Certaines traditions impliquent d\'offrir des tuniques en cadeau à des aventuriers jugés dignes par une organisation.',
       de: 'Diese Tunika ist aus robusten Stoffen gefertigt, die so konzipiert ist, dass sie dem Überleben in der Wildnis standhält. In manchen Traditionen werden Tuniken als Geschenke für Abenteurer angeboten, die von einer Organisation als würdig erachtet werden.',
       es: 'Esta túnica está hecha a mano con telas robustas que fueron diseñadas para resistir la supervivencia en la naturaleza. Algunas tradiciones acostumbran a dar túnicas como regalos a aventureros que son considerados dignos por su organización.',
@@ -52,7 +52,7 @@ export default [
     description: {
       en: 'This leather armor is a common choice for traveling adventurers. The trend of wearing leather jerkins originated around Yggdrasil when dangerous creatures began to lurk in the nearby jungles.',
       hu: 'Ez a bőrvért a nagy utazók legnagyobb kedveltje. A használatuk akkor terjedt el, amikor a Yggdrasil körüli esőerdőkbe veszedelmes bestiák áramlottak be.',
-      ru: 'Эта коженая броня является общим выбором для путешественников. Тенденция ношения козлиной кожи возникла вокруг Yggdrasil, когда в близлежащих джунглях начали таиться опасные существа.',
+      ru: 'Эта кожаная броня является обычным выбором путешественников. Тенденция ношения козлиной кожи возникла вокруг Yggdrasil, когда в близлежащих джунглях начали таиться опасные существа.',
       fr: 'Cette armure en cuir est un choix commun pour les aventuriers voyageants. La tendance de porter des jerkins en cuir est née autour d\'Yggdrasil quand de dangereuses créatures ont commencé à rôder dans les jungles alentours.',
       de: 'Diese Lederrüstung ist eine beliebte Wahl für reisende Abenteurer. Der Trend zum Tragen von Leder-Rucksäcken entstand um Yggdrasil herum, als gefährliche Kreaturen im nahen Dschungel zu lauerten.',
       es: 'Esta armadura de cuero es una opción común para los aventureros que viajan. La tendencia de usar estos Leather Jerkins se originó alrededor de Yggdrasil cuando peligrosas criaturas comenzaron a acechar en las selvas cercanas.',
@@ -132,7 +132,7 @@ export default [
     description: {
       en: 'Supernatural infernos were used in the making of this armor. Great sacrifices were made to appease the demands of devilish creatures so that a few blacksmiths could forge with the strange flames.',
       hu: 'Természetfeletti pokoltűz koholta ezt a vértet. Az ördögi szörnyetegek alkuját pedig csak hatalmas emberáldozatokkal lehetett teljesíteni, hogy néhány kovács megtanulhasson egy ilyet elkészíteni.',
-      ru: 'При изготовлении этих доспехов использовались сверхъестественное пламя. Крупные жертвы были принесены, для того чтобы успокоить требования дьявольских существ, чтобы несколько кузнецов могли ковать с этим странным огнем.',
+      ru: 'При изготовлении этих доспехов использовалось сверхъестественное пламя. Крупные жертвы были принесены для того, чтобы удовлетворить требования дьявольских существ, чтобы несколько кузнецов могли ковать в этим странном огне.',
       fr: 'Les enfers supernaturels ont été utilisés dans la création de cette armure. De grands sacrifices ont été faits pour apaiser les demandes des créatures diaboliques, pour que quelques forgerons puissent forger avec les flammes étranges.',
       de: 'Übernatürliche Infernos wurden bei der Herstellung dieser Rüstung verwendet. Große Opfer wurden erbracht, um die Forderungen der teuflischen Kreaturen zu erfüllen, so dass einige wenige Schmiede mit den seltsamen Flammen schmieden konnten.',
       es: 'Se usaron llamas sobrenaturales en la fabricación de esta armadura. Se hicieron grandes sacrificios para apaciguar las demandas de las criaturas diabólicas de forma que así, algunos herreros pudieran forjar a través de estas extrañas llamas.',
