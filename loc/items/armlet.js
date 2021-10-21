@@ -4,7 +4,7 @@ export default [
     description: {
       en: 'These wristbands are leather strips that are wrapped in a simple formation.',
       hu: 'Ezek a csuklóvédők bőrszalagok, melyek egyetlen csíkba lettek tekerve.',
-      ru: 'Эти браслеты сделаны из кожаных полосок, которые были завернуты в простую форму',
+      ru: 'Эти браслеты сделаны из кожаных полосок, которые были завернуты в простую форму.',
       fr: 'Ces bracelets sont des lanières de cuir qui sont enveloppées dans une formation simple.',
       es: 'Estas pulseras estan hechas de tiras de cuero que están envueltas en una formación simple.',
       pt: 'Essas pulseras são feitas de tiras de couro que estão envolvidas em uma formacão simples.',
@@ -59,7 +59,7 @@ export default [
     description: {
       en: 'This type of bracelet is ornately crafted with thick monster bones. Many superstitious traditions claim that the wearer of such bracelets become permeated with the deceased monster\'s power; however, others claim that the reuse of bones prevents monsters from resurrecting.',
       hu: 'Ez a fajta csuklóvédő díszesen faragott, vastag csontokból áll. A babonás népek úgy hiszik, ilyen csuklóvértek viselője bírni fog az elpusztított bestia erejével; mások úgy vélik, a csontok felhasználása megakadályozza a szörnyeteget újjászületésében.',
-      ru: 'Такой тип браслета сделан из толстых костей, принадлежащих мертвым монстрам. Многие суеверные традиции утверждают, что обладатель таких браслетов пронизан властью умершего монстра, однако другие утверждают, что повторное использование костей предотвращает воскрешение монстров.',
+      ru: 'Такой тип браслета сделан из толстых костей, принадлежащих мертвым монстрам. Многие суеверные традиции утверждают, что обладатель таких браслетов получают силу умершего монстра, однако другие утверждают, что повторное использование костей предотвращает воскрешение монстров.',
       fr: 'Ce type de bracelet est orné d\'os de monstres épais. De nombreuses traditions superstitieuses prétendent que le porteur de ces bracelets s\'imprègne du pouvoir du monstre décédé ; cependant, d\'autres prétendent que la réutilisation des os empêche les monstres de ressusciter.',
       es: 'Este tipo de brazalete está adornado a mano con huesos de monstruo gruesos. Muchas tradiciones supersticiosas afirman que el portador de dichos brazaletes se impregnará con el poder del monstruo fallecido; Sin embargo, otros afirman que la reutilización de huesos impide que los monstruos resuciten.',
       pt: 'Este tipo de bracelete é adornado a mão com grossos ossos de monstro. Muitas tradições supersticiosas afirmam que o usuário de tais pulseiras se torna permeado pelo poder do monstro morto; no entanto, outros afirmam que a reutilização de ossos impede que os monstros ressuscitem.',
@@ -93,7 +93,7 @@ export default [
     description: {
       en: 'These steel bracers are marked with small runes that imbue extra protection. Imbued bracers are somewhat rare since the creation method of the runes is a secret.',
       hu: 'Az acél vértek rúnákkal vannak ellátva a teljes védelemért. Ilyen elbűvölt alkarvédők elég ritkák lettek, amióta a rúnák titkát elfeledték.',
-      ru: 'Эти стальные браслеты отмечены мелкими рунами, которые обеспечивают дополнительную защиту. Такие браслеты встречаются редко, так как метод создания рун является секретным.',
+      ru: 'Эти стальные браслеты отмечены небольшими рунами, которые обеспечивают дополнительную защиту. Такие браслеты встречаются редко, так как метод создания рун является секретным.',
       fr: 'Ces brassards en acier sont marqués de petites runes qui leur confèrent une protection supplémentaire. Les brassard imprégnés sont quelque peu rares puisque la méthode de création des runes est un secret.',
       es: 'Estos brazales de acero están marcados con pequeñas runas que imbuyen protección adicional. Los brazales imbuidos son algo raros ya que el método de creación de las runas es un secreto.',
       pt: 'Essas braçadeiras de aço são marcadas com pequenas runas que conferem proteção extra. Braceletes imbuídos são um tanto raros, já que o método de criação das runas é um segredo.',
@@ -110,7 +110,7 @@ export default [
     description: {
       en: 'These cuffs were forged with a special fire that can only be created through magic. In the past, fire elementals taught only a few special blacksmiths the secret to forging ember cuffs.',
       hu: 'Ezek a csuklóvértek egy ritka tűzzel lettek kovácsolva, mégpedig mágia segítségével. Régen a tűz elem szellemei csak kevés kiválasztottat avattak be a borostyánkő titkaiba.',
-      ru: 'Эти браслеты были выкованы специальным огнем, который может быть создан только с помощью магии. В прошлом, огненные элементали научили только нескольких кузнецов секрету изготовления этих браслетов.',
+      ru: 'Эти браслеты были выкованы в специальном огне, который может быть получен только с помощью магии. В прошлом, огненные элементали научили только нескольких кузнецов секрету изготовления этих браслетов.',
       fr: 'Ces menottes ont été forgées avec un feu spécial qui ne peut être créé que par magie. Autrefois, les élémentaires de feu n\'enseignaient qu\'à quelques forgerons spéciaux le secret de la forge des menottes de braise.',
       es: 'Estas esposas fueron forjadas con un fuego especial que solo pueden ser creados a través de la magia. En el pasado, los elementales de fuego solo enseñaban a unos pocos herreros especiales el secreto de forjar esposas de ascuas.',
       pt: 'Esses braceletes foram forjados com um fogo especial que só pode ser criado através da magia. No passado, os elementais do fogo ensinavam apenas alguns ferreiros especiais o segredo para forjar um bracelete de brasa.',
@@ -127,7 +127,7 @@ export default [
     description: {
       en: 'Mirrored armlets are made by exceptional blacksmiths with the skills necessary to make reflective armor for damage reduction. This protective quality inspired many Elvish wizards to often experiment on mirrored armlets.',
       hu: 'A tükrözött karvérteket különleges képességű kovácsok készítették, akik képesek voltak a támadást visszaverő acél létrehozására. Ez a védelem sok Elf varázslót arra késztetett, hogy kísérletezzenek a tükrös karvértekkel.',
-      ru: 'Зеркальные браслеты изготавливаются чрезвычайно опытными кузнецами, обладающими навыками, необходимыми для изготовления брони для снижения урона. Это защитное качество вдохновило многих эльфийских волшебников часто экспериментировать на зеркальных браслетах.',
+      ru: 'Зеркальные браслеты изготавливаются чрезвычайно опытными кузнецами, обладающими навыками, необходимыми для изготовления отражающей брони для снижения урона. Это свойство вдохновило многих эльфийских волшебников часто экспериментировать над зеркальными браслетами.',
       fr: 'Les bracelets en miroir sont fabriqués par des forgerons exceptionnels possédant les compétences nécessaires pour fabriquer des armures réfléchissantes pour réduire les dégâts. Cette qualité protectrice a inspiré de nombreux sorciers Elfiques à expérimenter souvent sur des bracelets en miroir.',
       es: 'Los brazaletes espejados están hechos por herreros excepcionales con las habilidades necesarias para hacer armadura reflectante que reduce el daño. Esta cualidad protectora inspiró a muchos magos élficos a experimentar a menudo en brazaletes espejados.',
       pt: 'Braceletes espelhadas são feitas por ferreiros excepcionais, com as habilidades necessárias para fabricar armaduras refletivas para redução de danos. Essa qualidade de proteção inspirou muitos bruxos élficos a experimentar com freqüência braceletes espelhadas.',
@@ -212,7 +212,7 @@ export default [
     description: {
       en: 'Some legends say that these bracers only appear when the realms need a guardian. History shows that terrible tragedies occur shortly thereafter whenever these bracers are found; as such, their appearances are often seen as bad omens.',
       hu: 'A Legendák szerint ott tűnnek föl ezek, ahol védelmezőre van szükség. Ám a történelem bebizonyította, hogy iszonyatos tragédiák következnek be, ha ilyet találnak. Így hát a feltűnésüket gyakran rossz előjelként látják.',
-      ru: 'Некоторые легенды гласят, что эти браслеты появляются только тогда, когда королевства нуждаются в страже. История показывает, что ужасные трагедии происходят вскоре после этого, когда эти браслеты обнаруживаются; как таковое, их появление часто рассматривается как плохое предзнаменование.',
+      ru: 'Некоторые легенды гласят, что эти браслеты появляются только тогда, когда мир нуждаются в защитнике. История показывает, что ужасные трагедии происходят вскоре после этого, когда эти браслеты обнаруживаются; поэтому их появление часто рассматривается как плохое предзнаменование.',
       fr: 'Certaines légendes disent que ces brassards n\'apparaissent que lorsque les royaumes ont besoin d\'un gardien. L\'histoire montre que de terribles tragédies surviennent peu de temps après chaque fois que l\'on découvre ces brassards ; en tant que tel, leurs apparitions sont souvent considérées comme de mauvais présages.',
       es: 'Algunas leyendas dicen que estos brazaletes solo aparecen cuando el reino necesita un guardian. La historia demuestra que terribles tragedias ocurren al poco tiempo de que estos brazaletes son encontrados; Como tal, sus apariciones a menudo presagian un mal augurio.',
       pt: 'Algumas lendas dizem que essas braçadeiras só aparecem quando os reinos precisam de um guardião. A história mostra que tragédias terríveis ocorrem logo depois, sempre que esses braceletes são encontradas; como tal, suas aparências são frequentemente vistas como maus presságios.',
